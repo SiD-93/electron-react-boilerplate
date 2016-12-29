@@ -36,11 +36,11 @@ your-app-name/
 
 ## High-level walkthrough
 
-- Alright, the `src/main.js` file is where all the magic begins. This file has the [Electron API](http://electron.atom.io/docs/api/) code and it kicks off the `main` process of the whole app. **Basic info on Electron processes [here.](http://electron.atom.io/docs/tutorial/quick-start/).**
+- Alright, the `src/main.js` file is where all the magic begins. This file has the [Electron API](http://electron.atom.io/docs/api/) code and it kicks off the `main` process of the whole app. **Basic info on Electron processes [here](http://electron.atom.io/docs/tutorial/quick-start/).**
 
 
 - The `renderer/` directory contains the `index.html` file which starts the `renderer` process.
-  - You can include stylesheets, scripts and other stuff in here just like you would in a regular HTML file without the need for a separate cross-compilation step!  **Why?!? How!?! Read [this.](https://github.com/electron/electron-compile)**
+  - You can include stylesheets, scripts and other stuff in here just like you would in a regular HTML file without the need for a separate cross-compilation step!  **Why?!? How!?! Read [this](https://github.com/electron/electron-compile).**
 
 
 - The `renderer/index.js` file is where our React component is mounted. **Be sure to include this script in the HTML file of the renderer process.**
