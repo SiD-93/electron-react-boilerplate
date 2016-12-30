@@ -9,5 +9,5 @@ app.on('window-all-closed', () => {
 app.on('ready', () => {
   mainWindow = new BrowserWindow();
   mainWindow.webContents.openDevTools();
-  mainWindow.loadURL(`file://${__dirname}/renderer/index.html`);
+  mainWindow.loadURL(`file://${__dirname}/index.html`);
 });
