@@ -53,7 +53,7 @@ your-app-name/
 
 In its current state, this boilerplate is sufficient to create small, _non-trivial_ apps using React and Electron without the hassle/benefits/headache/awesomeness of a tool such as `Webpack`.
 
-I plan to evaluate some tools (React Router, Express, etc.) to be able to make more complex apps and I'll add them to this when I get them working.
+I plan to evaluate some tools (~~React Router~~ (added), Express, etc.) to be able to make more complex apps and I'll add them to this when I get them working.
 But some advanced boilerplates can already do this (one with the exact same name as this repo :sweat_smile:)
 
 Let's see how it goes :smile:
