@@ -8,4 +8,4 @@
 
 - [ ] Packaging apps (`electron-builder` or `electron-packager`).
 - [ ] Different types of `histories` in React Router.
-- [ ] Webpack? Recently read a [post](https://medium.freecodecamp.com/building-an-electron-application-with-create-react-app-97945861647c#.jwxlm9a2v) for creating apps with `create-react-app`. Re-thinking this whole boilerplate...
+- [ ] Compare the performance of just this boilerplate vs. that in this [post](https://medium.freecodecamp.com/building-an-electron-application-with-create-react-app-97945861647c#.jwxlm9a2v)
