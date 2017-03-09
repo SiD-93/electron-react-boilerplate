@@ -8,15 +8,15 @@
   },
   "license": "ISC",
   "dependencies": {
-    "react": "^15.4.1",
-    "react-dom": "^15.4.1",
-    "react-router": "^3.0.0"
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-router": "^3.0.2"
   },
   "devDependencies": {
-    "babel-plugin-transform-class-properties": "^6.6.0",
+    "babel-plugin-transform-class-properties": "^6.23.0",
     "babel-preset-es2016-node5": "^1.1.2",
-    "babel-preset-react": "^6.5.0",
-    "electron-packager": "^8.4.0",
-    "electron-prebuilt-compile": "1.4.12"
+    "babel-preset-react": "^6.23.0",
+    "electron-packager": "^8.5.2",
+    "electron-prebuilt-compile": "1.6.2"
   }
 }
